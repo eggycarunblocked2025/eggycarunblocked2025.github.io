@@ -1,0 +1,41 @@
+{
+  "name": "Eggy Car Unblocked",
+  "short_name": "Eggy Car",
+  "description": "Play Eggy Car Unblocked online for free! Drive, balance, and master the egg challenge in this addictively fun physics car game.",
+  "icons": [
+    {
+      "src": "icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffd166",
+  "background_color": "#0e0e0e"
+}
